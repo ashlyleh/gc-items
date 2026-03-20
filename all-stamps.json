@@ -2887,14 +2887,14 @@
     ],
     [
       "Sapphire Flutterfly",
-      -1,
-      "",
+      101,
+      "With wings that glisten like... a sapphire!",
       "bluemorph_stamp.gif"
     ],
     [
       "Simple Red Collectable Scarab",
       101,
-      "With wings that glisten like... a sapphire!",
+      "This scarab is mostly found during the twilight hours.",
       "coi_red_scarabs.gif"
     ],
     [
@@ -2904,22 +2904,22 @@
       "whitemoth_stamp.gif"
     ],
     [
-      "",
-      -1,
-      "",
-      ""
+      "Fluttering Shiny Bug",
+      101,
+      "According to all known laws of aviation, there is no way a bug should be able to fly... in space.",
+      "damselfly_stamp.gif"
     ],
     [
-      "",
-      -1,
-      "",
-      ""
+      "Armoured Tonu Beetle",
+      101,
+      "This beetle has a HUGE horn!",
+      "rhino_stamp.gif"
     ],
     [
-      "",
-      -1,
-      "",
-      ""
+      "Jewelled Weevil",
+      101,
+      "The secret ingredient to Weevil Coffee.",
+      "weevil_stamp.gif"
     ],
     [
       "Uncommon Blue Collectable Scarab",
@@ -2934,10 +2934,10 @@
       "longhorn_stamp.gif"
     ],
     [
-      "",
-      -1,
-      "",
-      ""
+      "Pteriwing Butterfly",
+      101,
+      "It is as big as a Pteri wing!",
+      "birdwing_stamp.gif"
     ],
     [
       "Greater Green Collectable Scarab",
@@ -2946,10 +2946,10 @@
       "coi_desertscarab_green.gif"
     ],
     [
-      "",
-      -1,
-      "",
-      ""
+      "Dazzling Verdant Collectable Scarab",
+      98,
+      "This dazzling scarab is beautiful to look at. You are very lucky if you find one!",
+      "coi_verdant_scarab.gif"
     ],
     [
       "Kreludor Moth",
@@ -2966,14 +2966,14 @@
     [
       "Spotted Red Collectable Scarab",
       96,
-      "The spots on this Scarabs back scare away its enemies!",
+      "The spots on this Scarab's back scare away its enemies!",
       "coi_dotted_scarabs.gif"
     ],
     [
-      "",
-      -1,
-      "",
-      ""
+      "Pinching Beetle",
+      101,
+      "That's what it does, it pinches.",
+      "stag_stamp.gif"
     ],
     [
       "Trilo Bite Beetle",
@@ -2988,10 +2988,10 @@
       "atlasmoth_stamp.gif"
     ],
     [
-      "",
-      -1,
-      "",
-      ""
+      "Large Black Collectable Scarab",
+      99,
+      "This exceptionally large scarab has a mood as dark as its exoskeleton.",
+      "coi_large_black_scarab.gif"
     ]
   ]
 }
