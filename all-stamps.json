@@ -102,7 +102,12 @@
       "And you have won.... a can of beans :(",
       "stamp_island_tombola.gif"
     ],
-    ["Mystery Island Kiko Stamp", 101, "Kiko, kiko!", "stamp_island_kiko.gif"],
+    [
+      "Mystery Island Kiko Stamp",
+      101,
+      "Kiko, kiko!",
+      "stamp_island_kiko.gif"
+    ],
     [
       "Island Music Stamp",
       70,
@@ -121,7 +126,12 @@
       "You won't find many of these at the collector fair!",
       "stamp_misprint1.gif"
     ],
-    ["Upside Down Island Acara Stamp", 99, "Doh!", "stamp_misprint2.gif"],
+    [
+      "Upside Down Island Acara Stamp",
+      99,
+      "Doh!",
+      "stamp_misprint2.gif"
+    ],
     [
       "One Hundred Million Neopoint Stamp",
       99,
@@ -208,7 +218,12 @@
       "A real gargapple is flattened and dried in order to make this stamp.",
       "stamp_space_food.gif"
     ],
-    ["N4 Bot Stamp", 80, "Hello!", "stamp_space_n4bot.gif"],
+    [
+      "N4 Bot Stamp",
+      80,
+      "Hello!",
+      "stamp_space_n4bot.gif"
+    ],
     [
       "Blarthrox Stamp",
       80,
@@ -579,7 +594,12 @@
       "Oops, I am sure they meant Neopoints instead of... whatever that is!",
       "stamp_hal_meucapound.gif"
     ],
-    ["Holographic Magax Stamp", 99, "Magax", "stamp_hal_magax.gif"],
+    [
+      "Holographic Magax Stamp",
+      99,
+      "Magax",
+      "stamp_hal_magax.gif"
+    ],
     [
       "Foil Slorg Stamp",
       99,
@@ -702,7 +722,12 @@
       "Wow... so this is what Jelly world looks like!",
       "stamp_jelly_world.gif"
     ],
-    ["Usukiland Stamp", 88, "Usuki! Usuki! Usuki!", "sta_usukiland.gif"],
+    [
+      "Usukiland Stamp",
+      88,
+      "Usuki! Usuki! Usuki!",
+      "sta_usukiland.gif"
+    ],
     [
       "Super Bright Rainbow Pool Stamp",
       89,
@@ -741,7 +766,12 @@
       "NeoQuest is a very popular game in Neopia, and can be exceedingly frustrating towards the higher levels.",
       "stamp_nq_logo.gif"
     ],
-    ["NeoQuest Hero Stamp", 98, "The hero of NeoQuest!!!", "stamp_nq_hero.gif"],
+    [
+      "NeoQuest Hero Stamp",
+      98,
+      "The hero of NeoQuest!!!",
+      "stamp_nq_hero.gif"
+    ],
     [
       "Jahbal Stamp",
       98,
@@ -1082,7 +1112,12 @@
       "One of many loyal Moehog warriors that fought for the freedom of Darigan.",
       "stamp_meridell_darmoehog.gif"
     ],
-    ["Boris Stamp", 90, "Yikes! He is scary!", "sta_bfm_lastone.gif"],
+    [
+      "Boris Stamp",
+      90,
+      "Yikes! He is scary!",
+      "sta_bfm_lastone.gif"
+    ],
     [
       "Draik Guard Stamp",
       84,
@@ -1277,7 +1312,12 @@
       "Nobody knows how it got there or who made it but it is very impressive.",
       "sta_kacheeksphinx.gif"
     ],
-    ["Tug Of War Stamp", 79, "Heave... heave... splash!", "sta_tugowar.gif"],
+    [
+      "Tug Of War Stamp",
+      79,
+      "Heave... heave... splash!",
+      "sta_tugowar.gif"
+    ],
     [
       "Fruit Machine Stamp",
       80,
@@ -1466,7 +1506,12 @@
       "It's your colourful flexible friend (unless it takes something from you that is).",
       "sta_rainbowhand.gif"
     ],
-    ["Dark Battle Duck Stamp", 98, "Quack!", "sta_darkduck.gif"],
+    [
+      "Dark Battle Duck Stamp",
+      98,
+      "Quack!",
+      "sta_darkduck.gif"
+    ],
     [
       "Battle Slices Stamp",
       99,
@@ -1474,7 +1519,7 @@
       "sta_bd_slices.gif"
     ]
   ],
-"11": [
+  "11": [
     [
       "Silver Babaa Coin",
       95,
@@ -1929,8 +1974,8 @@
       "This mighty beast is the ultimate bad guy and the perfect stamp to complete your collection.",
       "sta_nq2_terask.gif"
     ]
- ],
- "15" : [
+  ],
+  "15": [
     [
       "Grundo Veggieballs Coin",
       89,
@@ -2081,920 +2126,159 @@
       "You would be scowling too if your evil plans were foiled constantly.",
       "coi_sloth_scowl.gif"
     ]
- ],
+  ],
   "16": [
     [
-        "Angry Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_1.gif"
-    ],
-    [
-        "Sinister Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_2.gif"
-    ],
-    [
-        "Ugly Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_3.gif"
-    ],
-    [
-        "Screaming Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_4.gif"
-    ],
-    [
-        "Horned Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_5.gif"
-    ],
-    [
-        "Infernal Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_6.gif"
-    ],
-    [
-        "Burning Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_7.gif"
-    ],
-    [
-        "Mini Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_8.gif"
-    ],
-    [
-        "Silent Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_9.gif"
-    ],
-    [
-        "Monstrous Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_10.gif"
-    ],
-    [
-        "Tusked Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_11.gif"
-    ],
-    [
-        "Hairy Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_12.gif"
-    ],
-    [
-        "Painted Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_13.gif"
-    ],
-    [
-        "Stitched Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_14.gif"
-    ],
-    [
-        "Wailing Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_18.gif"
-    ],
-    [
-        "Light Brown Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_17.gif"
-    ],
-    [
-        "Damaged Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_23.gif"
-    ],
-    [
-        "Flaming Evil Coconut",
-        101,
-        "This hideous totem has strange dreams that it was once a rare plushie that smelled of dung.",
-        "spo_coconut_16.gif"
-    ],
-    [
-        "Seasonal Evil Coconut",
-        101,
-        "This hideous totem was a prize given out by the advent calendar in year 6.",
-        "spo_coconut_xmas.gif"
-    ],
-    [
-        "One Eyed Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_19.gif"
-    ],
-    [
-        "Vicious Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_20.gif"
-    ],
-    [
-        "Moaning Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_21.gif"
-    ],
-    [
-        "Sliced Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_24.gif"
-    ],
-    [
-        "Scorched Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_15.gif"
-    ],
-    [
-        "Golden Evil Coconut",
-        101,
-        "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
-        "spo_coconut_25.gif"
-    ]
-],
-  "43": [
-    [
-      "Young Aisha Stamp",
+      "Angry Evil Coconut",
       101,
-      "I wonder what her wand does...?",
-      "stamp_365.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_1.gif"
     ],
     [
-      "Aerial Castle Stamp",
+      "Sinister Evil Coconut",
       101,
-      "It looks like a gloomy day!",
-      "stamp_368.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_2.gif"
     ],
     [
-      "Grumpy Skarl Stamp",
+      "Ugly Evil Coconut",
       101,
-      "He got a bad haircut.",
-      "stamp_369.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_3.gif"
     ],
     [
-      "Tormund Stamp",
+      "Screaming Evil Coconut",
       101,
-      "A wise and powerful Lupe!",
-      "stamp_370.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_4.gif"
     ],
     [
-      "Meridell Forest Stamp",
+      "Horned Evil Coconut",
       101,
-      "Bask in the warmth of the sunlight and breathe that fresh forest air!",
-      "stamp_371.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_5.gif"
     ],
     [
-      "Valiant Tormund Stamp",
+      "Infernal Evil Coconut",
       101,
-      "Well-equipped to fight the forces of evil!",
-      "stamp_378.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_6.gif"
     ],
     [
-      "Bound Book Stamp",
+      "Burning Evil Coconut",
       101,
-      "This book looks like it possesses a great power...",
-      "stamp_379.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_7.gif"
     ],
     [
-      "Skeletal Draik Stamp",
+      "Mini Evil Coconut",
       101,
-      "A fierce wyvern! You don't want to end up on its bad side.",
-      "stamp_380.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_8.gif"
     ],
     [
-      "Evil Sisters Stamp",
+      "Silent Evil Coconut",
       101,
-      "Spite, Malice, and Vanity... clearly up to no good.",
-      "stamp_381.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_9.gif"
     ],
     [
-      "Fyora Portrait Stamp",
+      "Monstrous Evil Coconut",
       101,
-      "A beautiful portrait of the Faerie Queen.",
-      "stamp_382.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_10.gif"
     ],
     [
-      "Werelupe King Stamp",
+      "Tusked Evil Coconut",
       101,
-      "What an intimidating presence...",
-      "stamp_383.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_11.gif"
     ],
     [
-      "Gnarfas Stamp",
+      "Hairy Evil Coconut",
       101,
-      "Gnarfas is kept locked away, deep underground. Once he goes on a rampage, not even the Werelupe King may stop his wrath.",
-      "stamp_384.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_12.gif"
     ],
     [
-      "Darkest Faerie Logo Stamp",
+      "Painted Evil Coconut",
       101,
-      "The Darkest Faerie!",
-      "stamp_386.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_13.gif"
     ],
     [
-      "Jeran on the Battlefield Stamp",
+      "Stitched Evil Coconut",
       101,
-      "Jeran, surveying destruction.",
-      "stamp_destruct_lupe.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_14.gif"
     ],
     [
-      "Valiant Jeran Stamp",
+      "Wailing Evil Coconut",
       101,
-      "Jeran, primed for battle!",
-      "stamp_destruct_lupe2.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_18.gif"
     ],
     [
-      "Surrounded Jeran Stamp",
+      "Light Brown Evil Coconut",
       101,
-      "Jeran, in the midst of chaos!",
-      "stamp_destruct_lupe3.gif"
-    ],
-     [
-      "Destroyed Castle Stamp",
-      101,
-      "An eerie scene - a castle in disrepair.",
-      "stamp_destruct_castle.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_17.gif"
     ],
     [
-      "Skarl Battle Stamp",
+      "Damaged Evil Coconut",
       101,
-      "King to E2!",
-      "stamp_destruct_king.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_23.gif"
     ],
     [
-      "Meridellian Knights Stamp",
+      "Flaming Evil Coconut",
       101,
-      "With their trusty steeds.",
-      "stamp_destruct_knights.gif"
+      "This hideous totem has strange dreams that it was once a rare plushie that smelled of dung.",
+      "spo_coconut_16.gif"
     ],
     [
-      "Scowling Darigan Moehog Stamp",
+      "Seasonal Evil Coconut",
       101,
-      "You wouldn't want to cross paths with this Moehog.",
-      "stamp_destruct_moehog.gif"
+      "This hideous totem was a prize given out by the advent calendar in year 6.",
+      "spo_coconut_xmas.gif"
     ],
     [
-      "Ancient Golden Orb Stamp",
+      "One Eyed Evil Coconut",
       101,
-      "Wow, this orb looks ancient!",
-      "stamp_destruct_orb.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_19.gif"
     ],
     [
-      "Angry Castle Defender Stamp",
+      "Vicious Evil Coconut",
       101,
-      "Cover your ears - his bellow can knock you flat!",
-      "stamp_destruct_kougraknight.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_20.gif"
     ],
     [
-      "Fading Jeran Memory Stamp",
+      "Moaning Evil Coconut",
       101,
-      "Run Jeran, run!",
-      "stamp_destruct_luperun.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_21.gif"
     ],
     [
-      "Fierce Moehog Stamp",
+      "Sliced Evil Coconut",
       101,
-      "AHHHHH! *chomp*",
-      "stamp_destruct_moehogblock.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_24.gif"
     ],
     [
-      "Lisha Stamp",
+      "Scorched Evil Coconut",
       101,
-      "A true heroine.",
-      "stamp_destruct_lisha.gif"
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_15.gif"
+    ],
+    [
+      "Golden Evil Coconut",
+      101,
+      "This hideous totem can only be won from the coconut shy in the Deserted Fairground.",
+      "spo_coconut_25.gif"
     ]
   ],
-  "44": [
-    [
-      "Scratched Stamp",
-      101,
-      "Oh no! You scratched the wrong things…",
-      "sta_scratch.gif"
-    ],
-    [
-      "Oops! All Brakuberries Stamp",
-      78,
-      "The latest and greatest in Braku Berry farming, this variety has super-sized berries that are both delicious and fun to throw at your friends!",
-      "stamp_brakuberries.gif"
-    ],
-    [
-      "Poogy Stamp",
-      78,
-      "Not quite a Poogle.",
-      "stamp_poogy.gif"
-    ],
-    [
-      "Special Agent Jones Stamp",
-      101,
-      "Benji, I’m going to let you in on a little secret. Every day, once a day, give yourself a present. Don’t plan it, don’t wait for it, just let it happen.",
-      "sta_agentjones.gif"
-    ],
-    [
-      "Mister Boodles Stamp",
-      101,
-      "Go to NeoSchool or University. Get a Faerie Job, that’s what they said to me. But I could never live the way they want!",
-      "sta_misterboodles.gif"
-    ],
-    [
-      "Samouel Says \"Hi!\" Stamp",
-      101,
-      "Well hi!!! Aren’t you going to say hi back?",
-      "sta_samouel.gif"
-    ],
-    [
-      "Space Wizard Stamp",
-      101,
-      "Some say it was just a balloon, but Space Wizard knows what it was really about.",
-      "sta_spacewizard.gif"
-    ],
-    [
-      "Ghostkerstamp",
-      101,
-      "Once licked by the mighty scary pet, SUNSHINE MONK!",
-      "sta_ghostker.gif"
-    ],
-    [
-      "World Challenges Stamp",
-      101,
-      "No map piece this time, but a stamp is a decent consolation prize!",
-      "sta_worldchallenges.gif"
-    ],
-    [
-      "Lupe Fiasco Stamp",
-      89,
-      "Sir, there is an overload of Lupes! Uh-oh… it’s a PROBLEM!!! HELP, what do we do NOW?",
-      "sta_lupefiasco.gif"
-    ],
-    [
-      "Cogito Ergo Stamp",
-      101,
-      "I think, therefore I sip. Usually coffee.",
-      "sta_cogitoergo.gif"
-    ],
-    [
-      "Toothy Stamp",
-      101,
-      "Oh Toothy, what nice teeth you have!",
-      "sta_toothy.gif"
-    ],
-    [
-      "Draikey Cakey Stampy",
-      94,
-      "Wakey wakey, Draikey cakey!",
-      "sta_draikeycakey.gif"
-    ],
-    [
-      "Mystery Pic Stamp",
-      101,
-      "Is it the tail of a Red Scorchio?",
-      "sta_blurrykrawk.gif"
-    ],
-    [
-      "Lenny Condominium Stamp",
-      101,
-      "Always read the fine print carefully.",
-      "sta_condominium.gif"
-    ],
-    [
-      "Nimmo Finger Stamp",
-      101,
-      "I knew a kid named Finger once…",
-      "sta_nimmofinger.gif"
-    ],
-     [
-      "Faerie Doll Collectors Stamp",
-      101,
-      "Dang, look at the price tag for just ONE of these? Oh well, gotta have them all!",
-      "sta_faeriedolls.gif"
-    ],
-    [
-      "Purple Spotted Shroom Stamp",
-      101,
-      "This stamp was allegedly handmade for Jhudora.",
-      "sta_pss.gif"
-    ],
-    [
-      "Princess Meiwa Stamp",
-      101,
-      "I want to steal her hair buns…",
-      "sta_meiwa.gif"
-    ],
-    [
-      "Maccys Stamp",
-      101,
-      "There are no limits to what you can do when Maccy is your digital companion… A computer that runs, or even flies in space! Beep boop!",
-      "sta_maccy.gif"
-    ],
-    [
-      "Dung Faerie Stamp",
-      101,
-      "The kind and elusive faerie who donates to the Rubbish Dump. Commemorated in a scratch-and-sniff stamp!",
-      "sta_dungfaerie.gif"
-    ],
-    [
-      "Cheaply Printed Wand of the Dark Faerie Stamp",
-      99,
-      "Well, at least it’s rarity 99… Right?",
-      "sta_cheapwodf.gif"
-    ],
-    [
-      "Alien Lupe Stamp",
-      101,
-      "Sorry to jet, but I’m in a hurry!",
-      "sta_alienlupe.gif"
-    ],
-    [
-      "Torn Grey Faerie Stamp",
-      101,
-      "Oooh, so shiny and metallic… But someone ripped it in two :(",
-      "sta_torn.gif"
-    ],
-    [
-      "Holographic MSPP Stamp",
-      101,
-      "One Neopoint?! That’s what I call “malevolent”…",
-      "sta_holo_mspp.gif"
-    ]
-  ],
-  "45": [
-    [
-        "Kougra Iron",
-        101,
-        "Kougra Iron is a very powerful stone. Use it wisely!",
-        "tiger_iron.gif"
-    ],
-    [
-        "Apatite and Calcite Stone",
-        101,
-        "What a mesmerizing swirl of blues and oranges...",
-        "apatite_and_calcite.gif"
-    ],
-    [
-        "Fluorite",
-        101,
-        "Not to be confused with the ingredient for bread.",
-        "flourite.gif"
-    ],
-    [
-        "Flower Jasper",
-        101,
-        "When polished, this aggregate rock looks like it is adorned with posies!",
-        "flower_jasper.gif"
-    ],
-    [
-        "Amberite",
-        101,
-        "A gem that looks just like fossilized tree sap!",
-        "amberite.gif"
-    ],
-    [
-        "Jade",
-        101,
-        "A beautiful sea-foam green gem.",
-        "jade.gif"
-    ],
-    [
-        "Jasper",
-        101,
-        "A wonderfully polished red rock.",
-        "jasper.gif"
-    ],
-    [
-        "Kyanite",
-        101,
-        "Kyanite is anisotropic - that means its hardness varies depending on the direction of applied stress!",
-        "kyanite.gif"
-    ],
-    [
-        "Moonstone",
-        101,
-        "Some say that moonstones were hand delivered to Neopia by the Space Faerie herself!",
-        "moonstone.gif"
-    ],
-    [
-        "Onyx",
-        101,
-        "Black and white bands span this beautiful chalcedony.",
-        "onyx.gif"
-    ],
-    [
-        "Orange Topaz",
-        101,
-        "Although topaz is colorless in its natural state, this specimen's impurities give it an incredible orange hue.",
-        "orange_topaz.gif"
-    ],
-    [
-        "Kougra Eye",
-        101,
-        "This gem's strirations can look like a menacing feline eye!",
-        "tiger_eye.gif"
-    ],
-    [
-        "Aquamarine",
-        103,
-        "A pale blue beryl that invokes memories of the ocean.",
-        "aquamarine.gif"
-    ],
-    [
-        "Amethyst",
-        103,
-        "A pristine quartz crystal with a deep violet hue.",
-        "amethyst.gif"
-    ],
-    [
-        "Emerald",
-        103,
-        "A stunningly green beryl.",
-        "emerald.gif"
-    ],
-    [
-        "Opal",
-        103,
-        "A fusion of pearl and amethyst! Wait... -checks notes- ...that might not be right. But still very pretty.",
-        "opal.gif"
-    ],
-    [
-        "Apple Green Garnet",
-        103,
-        "Don't try to eat it!",
-        "apple_green_garnet.gif"
-    ],
-    [
-        "Rainbow Obsidian",
-        105,
-        "The Fountain Faerie's favorite rock!",
-        "rainbow_obsidian.gif"
-    ],
-    [
-        "Peridot",
-        105,
-        "Also known as chrysolite!",
-        "peridot.gif"
-    ],
-    [
-        "Aurora Obsidian",
-        105,
-        "Trace impurities in this obsidian refract light with cosmological brilliance!",
-        "aurora_obsidian.gif"
-    ],
-    [
-        "Suspicious Gem",
-        108,
-        "Roll for initiative!!!",
-        "d20.gif"
-    ],
-    [
-        "Black Opal",
-        108,
-        "This gorgeous variety of opal has a black tint due to trace amounts of iron oxide.",
-        "black_opal.gif"
-    ],
-    [
-        "Sapphire",
-        112,
-        "The most stunning blue you can find in the world of gems.",
-        "sapphire.gif"
-    ],
-    [
-        "Small Ruby",
-        112,
-        "Ruby-duby!",
-        "rubyrock.gif"
-    ],
-    [
-        "Diamond",
-        115,
-        "The crème de la crème of the gem world. Look at that sparkle!",
-        "diamond.gif"
-    ]
-  ],
-  "46": [
-    [
-        "Limestone",
-        101,
-        "Surprisingly low in vitamin C.",
-        "limestone.gif"
-    ],
-    [
-        "Chunks of Clay",
-        101,
-        "Pliable - endless possibilities of form!",
-        "clay_chunks.gif"
-    ],
-    [
-        "Striped Rock",
-        101,
-        "Stripes!",
-        "striped_rock.gif"
-    ],
-    [
-        "Speckled Rock",
-        101,
-        "Specks!",
-        "speckled_rock.gif"
-    ],
-    [
-        "Red Speckled Rock",
-        101,
-        "Specks - now with more red!",
-        "red_speckled_rock.gif"
-    ],
-    [
-        "Bits of Gravel",
-        101,
-        "It's gravel. Hooray!",
-        "gravel_chunks.gif"
-    ],
-    [
-        "Obsidian",
-        102,
-        "Volcanic glass. Be careful - it can be incredibly sharp!",
-        "obsidian.gif"
-    ],
-    [
-        "Amber",
-        102,
-        "Fossilized tree sap! Be VERY careful of Moquots carrying prehistoric dinosaur DNA.",
-        "amber.gif"
-    ],
-    [
-        "Blue Agate",
-        102,
-        "Vibrant blue chalcedony.",
-        "blue_agate.gif"
-    ],
-    [
-        "Citrine",
-        102,
-        "Surprisingly low in vitamin C.",
-        "citrine.gif"
-    ],
-    [
-        "Lemon Quartz",
-        102,
-        "Surprisingly low in vitamin C.",
-        "lemon_quartz.gif"
-    ],
-    [
-        "Ulexite",
-        103,
-        "A milky white crystal.",
-        "ulexite.gif"
-    ],
-    [
-        "Grundenite",
-        103,
-        "Named for the professor who discovered it - Dr. Grundy Grundo Grundensen!",
-        "grundenite.gif"
-    ],
-    [
-        "Chunks of Redstone",
-        103,
-        "Maybe useful for circuitry?",
-        "redrock_chunks.gif"
-    ],
-    [
-        "Rose Quartz",
-        103,
-        "A bubblegum pink shade of quartz.",
-        "rose_quartz.gif"
-    ],
-    [
-        "Turquoise",
-        103,
-        "Its intense blues are owed to its copper content!",
-        "turquoise.gif"
-    ],
-    [
-        "Morganite",
-        103,
-        "A beautiful pink beryl!",
-        "morganite.gif"
-    ],
-    [
-        "Quartz",
-        105,
-        "Piezoelectric? Pizza electric",
-        "quartz.gif"
-    ],
-    [
-        "Purple Agate",
-        105,
-        "A geode with a deeply comforting purple hue.",
-        "purple_agate.gif"
-    ],
-    [
-        "Gold Ore Rock",
-        106,
-        "Wow, lucky find! This might need some refining.",
-        "gold_ore_rock.gif"
-    ],
-    [
-        "Coprolite",
-        108,
-        "Thankfully not too smelly.",
-        "coprolite.gif"
-    ],
-    [
-        "Plant Fossil",
-        109,
-        "Wow, this must have been some kind of fern!",
-        "plant_fossil.gif"
-    ],
-    [
-        "Shell Fossil",
-        109,
-        "Often sold by the sea shore.",
-        "shell_fossil.gif"
-    ],
-    [
-        "Tooth Fossil",
-        112,
-        "Someone call the Tooth Faerie...",
-        "tooth_fossil.gif"
-    ],
-    [
-        "Footprint Fossil",
-        115,
-        "Wow, that is a big foot!",
-        "footprint_fossil.gif"
-    ]
-  ],
-  "47": [
-    [
-      "Empty Husk",
-      101,
-      "Just an empty husk.",
-      "cicadahusk_stamp.gif"
-    ],
-    [
-      "Neohome Fly",
-      101,
-      "Ever wonder what was in Fantastic Fly Pie?",
-      "housefly_stamp.gif"
-    ],
-    [
-      "Lacewing",
-      101,
-      "Look at its beautiful delicate wings.",
-      "lacewing_stamp.gif"
-    ],
-    [
-      "Common Desert Collectable Scarab",
-      85,
-      "This fancy scarab has an ornamental design.",
-      "coi_desertscarab_slim.gif"
-    ],
-    [
-      "Noisy Sheeshoo Bug",
-      101,
-      "Some love the noise they make! No idea why though.",
-      "cicada_stamp.gif"
-    ],
-    [
-      "Taffi Moth",
-      101,
-      "Probably don't eat it.",
-      "roseymaplemoth_stamp.gif"
-    ],
-    [
-      "Basic Fringed Collectable Scarab",
-      89,
-      "This scarab is covered in a fancy fringe!",
-      "coi_scarab_4.gif"
-    ],
-    [
-      "Sapphire Flutterfly",
-      101,
-      "With wings that glisten like... a sapphire!",
-      "bluemorph_stamp.gif"
-    ],
-    [
-      "Simple Red Collectable Scarab",
-      101,
-      "This scarab is mostly found during the twilight hours.",
-      "coi_red_scarabs.gif"
-    ],
-    [
-      "Elegant Moth",
-      101,
-      "Look at this lovely lady.",
-      "whitemoth_stamp.gif"
-    ],
-    [
-      "Fluttering Shiny Bug",
-      101,
-      "According to all known laws of aviation, there is no way a bug should be able to fly... in space.",
-      "damselfly_stamp.gif"
-    ],
-    [
-      "Armoured Tonu Beetle",
-      101,
-      "This beetle has a HUGE horn!",
-      "rhino_stamp.gif"
-    ],
-    [
-      "Jewelled Weevil",
-      101,
-      "The secret ingredient to Weevil Coffee.",
-      "weevil_stamp.gif"
-    ],
-    [
-      "Uncommon Blue Collectable Scarab",
-      95,
-      "You won't see this scarab often so make sure you get it when you see it!",
-      "coi_scarab_3.gif"
-    ],
-    [
-      "Spotted Longhorn Beetle",
-      101,
-      "Are they antennas or horns?",
-      "longhorn_stamp.gif"
-    ],
-    [
-      "Pteriwing Butterfly",
-      101,
-      "It is as big as a Pteri wing!",
-      "birdwing_stamp.gif"
-    ],
-    [
-      "Greater Green Collectable Scarab",
-      93,
-      "This beautiful green scarab has a fascinating pattern on its back that is quite hypnotising.",
-      "coi_desertscarab_green.gif"
-    ],
-    [
-      "Dazzling Verdant Collectable Scarab",
-      98,
-      "This dazzling scarab is beautiful to look at. You are very lucky if you find one!",
-      "coi_verdant_scarab.gif"
-    ],
-    [
-      "Kreludor Moth",
-      101,
-      "Some say their bushy antennae are for receiving signals from Dr. Sloth.",
-      "lunamoth_stamp.gif"
-    ],
-    [
-      "Stick Bug",
-      101,
-      "Are we sure this is actually a bug and not a stick?",
-      "stickbug_stamp.gif"
-    ],
-    [
-      "Spotted Red Collectable Scarab",
-      96,
-      "The spots on this Scarab's back scare away its enemies!",
-      "coi_dotted_scarabs.gif"
-    ],
-    [
-      "Pinching Beetle",
-      101,
-      "That's what it does, it pinches.",
-      "stag_stamp.gif"
-    ],
-    [
-      "Trilo Bite Beetle",
-      101,
-      "This beetle is almost as old as Tyrannia!",
-      "platerodrilus_stamp.gif"
-    ],
-    [
-      "Magmara Moth",
-      101,
-      "This is a giant! Among bugs, at least.",
-      "atlasmoth_stamp.gif"
-    ],
-    [
-      "Large Black Collectable Scarab",
-      99,
-      "This exceptionally large scarab has a mood as dark as its exoskeleton.",
-      "coi_large_black_scarab.gif"
-    ]
-  ]
-{
   "17": [
     [
       "Green Clam Shell",
@@ -3298,4 +2582,765 @@
       "Proud ruler of Maraqua, Kelpbeard strives for peace and happiness in his city. When the need arises though, he is an excellent warrior.",
       "sta_mar_kelpbeard.gif"
     ]
+  ],
+  "43": [
+    [
+      "Young Aisha Stamp",
+      101,
+      "I wonder what her wand does...?",
+      "stamp_365.gif"
+    ],
+    [
+      "Aerial Castle Stamp",
+      101,
+      "It looks like a gloomy day!",
+      "stamp_368.gif"
+    ],
+    [
+      "Grumpy Skarl Stamp",
+      101,
+      "He got a bad haircut.",
+      "stamp_369.gif"
+    ],
+    [
+      "Tormund Stamp",
+      101,
+      "A wise and powerful Lupe!",
+      "stamp_370.gif"
+    ],
+    [
+      "Meridell Forest Stamp",
+      101,
+      "Bask in the warmth of the sunlight and breathe that fresh forest air!",
+      "stamp_371.gif"
+    ],
+    [
+      "Valiant Tormund Stamp",
+      101,
+      "Well-equipped to fight the forces of evil!",
+      "stamp_378.gif"
+    ],
+    [
+      "Bound Book Stamp",
+      101,
+      "This book looks like it possesses a great power...",
+      "stamp_379.gif"
+    ],
+    [
+      "Skeletal Draik Stamp",
+      101,
+      "A fierce wyvern! You don't want to end up on its bad side.",
+      "stamp_380.gif"
+    ],
+    [
+      "Evil Sisters Stamp",
+      101,
+      "Spite, Malice, and Vanity... clearly up to no good.",
+      "stamp_381.gif"
+    ],
+    [
+      "Fyora Portrait Stamp",
+      101,
+      "A beautiful portrait of the Faerie Queen.",
+      "stamp_382.gif"
+    ],
+    [
+      "Werelupe King Stamp",
+      101,
+      "What an intimidating presence...",
+      "stamp_383.gif"
+    ],
+    [
+      "Gnarfas Stamp",
+      101,
+      "Gnarfas is kept locked away, deep underground. Once he goes on a rampage, not even the Werelupe King may stop his wrath.",
+      "stamp_384.gif"
+    ],
+    [
+      "Darkest Faerie Logo Stamp",
+      101,
+      "The Darkest Faerie!",
+      "stamp_386.gif"
+    ],
+    [
+      "Jeran on the Battlefield Stamp",
+      101,
+      "Jeran, surveying destruction.",
+      "stamp_destruct_lupe.gif"
+    ],
+    [
+      "Valiant Jeran Stamp",
+      101,
+      "Jeran, primed for battle!",
+      "stamp_destruct_lupe2.gif"
+    ],
+    [
+      "Surrounded Jeran Stamp",
+      101,
+      "Jeran, in the midst of chaos!",
+      "stamp_destruct_lupe3.gif"
+    ],
+    [
+      "Destroyed Castle Stamp",
+      101,
+      "An eerie scene - a castle in disrepair.",
+      "stamp_destruct_castle.gif"
+    ],
+    [
+      "Skarl Battle Stamp",
+      101,
+      "King to E2!",
+      "stamp_destruct_king.gif"
+    ],
+    [
+      "Meridellian Knights Stamp",
+      101,
+      "With their trusty steeds.",
+      "stamp_destruct_knights.gif"
+    ],
+    [
+      "Scowling Darigan Moehog Stamp",
+      101,
+      "You wouldn't want to cross paths with this Moehog.",
+      "stamp_destruct_moehog.gif"
+    ],
+    [
+      "Ancient Golden Orb Stamp",
+      101,
+      "Wow, this orb looks ancient!",
+      "stamp_destruct_orb.gif"
+    ],
+    [
+      "Angry Castle Defender Stamp",
+      101,
+      "Cover your ears - his bellow can knock you flat!",
+      "stamp_destruct_kougraknight.gif"
+    ],
+    [
+      "Fading Jeran Memory Stamp",
+      101,
+      "Run Jeran, run!",
+      "stamp_destruct_luperun.gif"
+    ],
+    [
+      "Fierce Moehog Stamp",
+      101,
+      "AHHHHH! *chomp*",
+      "stamp_destruct_moehogblock.gif"
+    ],
+    [
+      "Lisha Stamp",
+      101,
+      "A true heroine.",
+      "stamp_destruct_lisha.gif"
+    ]
+  ],
+  "44": [
+    [
+      "Scratched Stamp",
+      101,
+      "Oh no! You scratched the wrong things\u2026",
+      "sta_scratch.gif"
+    ],
+    [
+      "Oops! All Brakuberries Stamp",
+      78,
+      "The latest and greatest in Braku Berry farming, this variety has super-sized berries that are both delicious and fun to throw at your friends!",
+      "stamp_brakuberries.gif"
+    ],
+    [
+      "Poogy Stamp",
+      78,
+      "Not quite a Poogle.",
+      "stamp_poogy.gif"
+    ],
+    [
+      "Special Agent Jones Stamp",
+      101,
+      "Benji, I\u2019m going to let you in on a little secret. Every day, once a day, give yourself a present. Don\u2019t plan it, don\u2019t wait for it, just let it happen.",
+      "sta_agentjones.gif"
+    ],
+    [
+      "Mister Boodles Stamp",
+      101,
+      "Go to NeoSchool or University. Get a Faerie Job, that\u2019s what they said to me. But I could never live the way they want!",
+      "sta_misterboodles.gif"
+    ],
+    [
+      "Samouel Says \"Hi!\" Stamp",
+      101,
+      "Well hi!!! Aren\u2019t you going to say hi back?",
+      "sta_samouel.gif"
+    ],
+    [
+      "Space Wizard Stamp",
+      101,
+      "Some say it was just a balloon, but Space Wizard knows what it was really about.",
+      "sta_spacewizard.gif"
+    ],
+    [
+      "Ghostkerstamp",
+      101,
+      "Once licked by the mighty scary pet, SUNSHINE MONK!",
+      "sta_ghostker.gif"
+    ],
+    [
+      "World Challenges Stamp",
+      101,
+      "No map piece this time, but a stamp is a decent consolation prize!",
+      "sta_worldchallenges.gif"
+    ],
+    [
+      "Lupe Fiasco Stamp",
+      89,
+      "Sir, there is an overload of Lupes! Uh-oh\u2026 it\u2019s a PROBLEM!!! HELP, what do we do NOW?",
+      "sta_lupefiasco.gif"
+    ],
+    [
+      "Cogito Ergo Stamp",
+      101,
+      "I think, therefore I sip. Usually coffee.",
+      "sta_cogitoergo.gif"
+    ],
+    [
+      "Toothy Stamp",
+      101,
+      "Oh Toothy, what nice teeth you have!",
+      "sta_toothy.gif"
+    ],
+    [
+      "Draikey Cakey Stampy",
+      94,
+      "Wakey wakey, Draikey cakey!",
+      "sta_draikeycakey.gif"
+    ],
+    [
+      "Mystery Pic Stamp",
+      101,
+      "Is it the tail of a Red Scorchio?",
+      "sta_blurrykrawk.gif"
+    ],
+    [
+      "Lenny Condominium Stamp",
+      101,
+      "Always read the fine print carefully.",
+      "sta_condominium.gif"
+    ],
+    [
+      "Nimmo Finger Stamp",
+      101,
+      "I knew a kid named Finger once\u2026",
+      "sta_nimmofinger.gif"
+    ],
+    [
+      "Faerie Doll Collectors Stamp",
+      101,
+      "Dang, look at the price tag for just ONE of these? Oh well, gotta have them all!",
+      "sta_faeriedolls.gif"
+    ],
+    [
+      "Purple Spotted Shroom Stamp",
+      101,
+      "This stamp was allegedly handmade for Jhudora.",
+      "sta_pss.gif"
+    ],
+    [
+      "Princess Meiwa Stamp",
+      101,
+      "I want to steal her hair buns\u2026",
+      "sta_meiwa.gif"
+    ],
+    [
+      "Maccys Stamp",
+      101,
+      "There are no limits to what you can do when Maccy is your digital companion\u2026 A computer that runs, or even flies in space! Beep boop!",
+      "sta_maccy.gif"
+    ],
+    [
+      "Dung Faerie Stamp",
+      101,
+      "The kind and elusive faerie who donates to the Rubbish Dump. Commemorated in a scratch-and-sniff stamp!",
+      "sta_dungfaerie.gif"
+    ],
+    [
+      "Cheaply Printed Wand of the Dark Faerie Stamp",
+      99,
+      "Well, at least it\u2019s rarity 99\u2026 Right?",
+      "sta_cheapwodf.gif"
+    ],
+    [
+      "Alien Lupe Stamp",
+      101,
+      "Sorry to jet, but I\u2019m in a hurry!",
+      "sta_alienlupe.gif"
+    ],
+    [
+      "Torn Grey Faerie Stamp",
+      101,
+      "Oooh, so shiny and metallic\u2026 But someone ripped it in two :(",
+      "sta_torn.gif"
+    ],
+    [
+      "Holographic MSPP Stamp",
+      101,
+      "One Neopoint?! That\u2019s what I call \u201cmalevolent\u201d\u2026",
+      "sta_holo_mspp.gif"
+    ]
+  ],
+  "45": [
+    [
+      "Kougra Iron",
+      101,
+      "Kougra Iron is a very powerful stone. Use it wisely!",
+      "tiger_iron.gif"
+    ],
+    [
+      "Apatite and Calcite Stone",
+      101,
+      "What a mesmerizing swirl of blues and oranges...",
+      "apatite_and_calcite.gif"
+    ],
+    [
+      "Fluorite",
+      101,
+      "Not to be confused with the ingredient for bread.",
+      "flourite.gif"
+    ],
+    [
+      "Flower Jasper",
+      101,
+      "When polished, this aggregate rock looks like it is adorned with posies!",
+      "flower_jasper.gif"
+    ],
+    [
+      "Amberite",
+      101,
+      "A gem that looks just like fossilized tree sap!",
+      "amberite.gif"
+    ],
+    [
+      "Jade",
+      101,
+      "A beautiful sea-foam green gem.",
+      "jade.gif"
+    ],
+    [
+      "Jasper",
+      101,
+      "A wonderfully polished red rock.",
+      "jasper.gif"
+    ],
+    [
+      "Kyanite",
+      101,
+      "Kyanite is anisotropic - that means its hardness varies depending on the direction of applied stress!",
+      "kyanite.gif"
+    ],
+    [
+      "Moonstone",
+      101,
+      "Some say that moonstones were hand delivered to Neopia by the Space Faerie herself!",
+      "moonstone.gif"
+    ],
+    [
+      "Onyx",
+      101,
+      "Black and white bands span this beautiful chalcedony.",
+      "onyx.gif"
+    ],
+    [
+      "Orange Topaz",
+      101,
+      "Although topaz is colorless in its natural state, this specimen's impurities give it an incredible orange hue.",
+      "orange_topaz.gif"
+    ],
+    [
+      "Kougra Eye",
+      101,
+      "This gem's strirations can look like a menacing feline eye!",
+      "tiger_eye.gif"
+    ],
+    [
+      "Aquamarine",
+      103,
+      "A pale blue beryl that invokes memories of the ocean.",
+      "aquamarine.gif"
+    ],
+    [
+      "Amethyst",
+      103,
+      "A pristine quartz crystal with a deep violet hue.",
+      "amethyst.gif"
+    ],
+    [
+      "Emerald",
+      103,
+      "A stunningly green beryl.",
+      "emerald.gif"
+    ],
+    [
+      "Opal",
+      103,
+      "A fusion of pearl and amethyst! Wait... -checks notes- ...that might not be right. But still very pretty.",
+      "opal.gif"
+    ],
+    [
+      "Apple Green Garnet",
+      103,
+      "Don't try to eat it!",
+      "apple_green_garnet.gif"
+    ],
+    [
+      "Rainbow Obsidian",
+      105,
+      "The Fountain Faerie's favorite rock!",
+      "rainbow_obsidian.gif"
+    ],
+    [
+      "Peridot",
+      105,
+      "Also known as chrysolite!",
+      "peridot.gif"
+    ],
+    [
+      "Aurora Obsidian",
+      105,
+      "Trace impurities in this obsidian refract light with cosmological brilliance!",
+      "aurora_obsidian.gif"
+    ],
+    [
+      "Suspicious Gem",
+      108,
+      "Roll for initiative!!!",
+      "d20.gif"
+    ],
+    [
+      "Black Opal",
+      108,
+      "This gorgeous variety of opal has a black tint due to trace amounts of iron oxide.",
+      "black_opal.gif"
+    ],
+    [
+      "Sapphire",
+      112,
+      "The most stunning blue you can find in the world of gems.",
+      "sapphire.gif"
+    ],
+    [
+      "Small Ruby",
+      112,
+      "Ruby-duby!",
+      "rubyrock.gif"
+    ],
+    [
+      "Diamond",
+      115,
+      "The cr\u00e8me de la cr\u00e8me of the gem world. Look at that sparkle!",
+      "diamond.gif"
+    ]
+  ],
+  "46": [
+    [
+      "Limestone",
+      101,
+      "Surprisingly low in vitamin C.",
+      "limestone.gif"
+    ],
+    [
+      "Chunks of Clay",
+      101,
+      "Pliable - endless possibilities of form!",
+      "clay_chunks.gif"
+    ],
+    [
+      "Striped Rock",
+      101,
+      "Stripes!",
+      "striped_rock.gif"
+    ],
+    [
+      "Speckled Rock",
+      101,
+      "Specks!",
+      "speckled_rock.gif"
+    ],
+    [
+      "Red Speckled Rock",
+      101,
+      "Specks - now with more red!",
+      "red_speckled_rock.gif"
+    ],
+    [
+      "Bits of Gravel",
+      101,
+      "It's gravel. Hooray!",
+      "gravel_chunks.gif"
+    ],
+    [
+      "Obsidian",
+      102,
+      "Volcanic glass. Be careful - it can be incredibly sharp!",
+      "obsidian.gif"
+    ],
+    [
+      "Amber",
+      102,
+      "Fossilized tree sap! Be VERY careful of Moquots carrying prehistoric dinosaur DNA.",
+      "amber.gif"
+    ],
+    [
+      "Blue Agate",
+      102,
+      "Vibrant blue chalcedony.",
+      "blue_agate.gif"
+    ],
+    [
+      "Citrine",
+      102,
+      "Surprisingly low in vitamin C.",
+      "citrine.gif"
+    ],
+    [
+      "Lemon Quartz",
+      102,
+      "Surprisingly low in vitamin C.",
+      "lemon_quartz.gif"
+    ],
+    [
+      "Ulexite",
+      103,
+      "A milky white crystal.",
+      "ulexite.gif"
+    ],
+    [
+      "Grundenite",
+      103,
+      "Named for the professor who discovered it - Dr. Grundy Grundo Grundensen!",
+      "grundenite.gif"
+    ],
+    [
+      "Chunks of Redstone",
+      103,
+      "Maybe useful for circuitry?",
+      "redrock_chunks.gif"
+    ],
+    [
+      "Rose Quartz",
+      103,
+      "A bubblegum pink shade of quartz.",
+      "rose_quartz.gif"
+    ],
+    [
+      "Turquoise",
+      103,
+      "Its intense blues are owed to its copper content!",
+      "turquoise.gif"
+    ],
+    [
+      "Morganite",
+      103,
+      "A beautiful pink beryl!",
+      "morganite.gif"
+    ],
+    [
+      "Quartz",
+      105,
+      "Piezoelectric? Pizza electric",
+      "quartz.gif"
+    ],
+    [
+      "Purple Agate",
+      105,
+      "A geode with a deeply comforting purple hue.",
+      "purple_agate.gif"
+    ],
+    [
+      "Gold Ore Rock",
+      106,
+      "Wow, lucky find! This might need some refining.",
+      "gold_ore_rock.gif"
+    ],
+    [
+      "Coprolite",
+      108,
+      "Thankfully not too smelly.",
+      "coprolite.gif"
+    ],
+    [
+      "Plant Fossil",
+      109,
+      "Wow, this must have been some kind of fern!",
+      "plant_fossil.gif"
+    ],
+    [
+      "Shell Fossil",
+      109,
+      "Often sold by the sea shore.",
+      "shell_fossil.gif"
+    ],
+    [
+      "Tooth Fossil",
+      112,
+      "Someone call the Tooth Faerie...",
+      "tooth_fossil.gif"
+    ],
+    [
+      "Footprint Fossil",
+      115,
+      "Wow, that is a big foot!",
+      "footprint_fossil.gif"
+    ]
+  ],
+  "47": [
+    [
+      "Empty Husk",
+      101,
+      "Just an empty husk.",
+      "cicadahusk_stamp.gif"
+    ],
+    [
+      "Neohome Fly",
+      101,
+      "Ever wonder what was in Fantastic Fly Pie?",
+      "housefly_stamp.gif"
+    ],
+    [
+      "Lacewing",
+      101,
+      "Look at its beautiful delicate wings.",
+      "lacewing_stamp.gif"
+    ],
+    [
+      "Common Desert Collectable Scarab",
+      85,
+      "This fancy scarab has an ornamental design.",
+      "coi_desertscarab_slim.gif"
+    ],
+    [
+      "Noisy Sheeshoo Bug",
+      101,
+      "Some love the noise they make! No idea why though.",
+      "cicada_stamp.gif"
+    ],
+    [
+      "Taffi Moth",
+      101,
+      "Probably don't eat it.",
+      "roseymaplemoth_stamp.gif"
+    ],
+    [
+      "Basic Fringed Collectable Scarab",
+      89,
+      "This scarab is covered in a fancy fringe!",
+      "coi_scarab_4.gif"
+    ],
+    [
+      "Sapphire Flutterfly",
+      101,
+      "With wings that glisten like... a sapphire!",
+      "bluemorph_stamp.gif"
+    ],
+    [
+      "Simple Red Collectable Scarab",
+      101,
+      "This scarab is mostly found during the twilight hours.",
+      "coi_red_scarabs.gif"
+    ],
+    [
+      "Elegant Moth",
+      101,
+      "Look at this lovely lady.",
+      "whitemoth_stamp.gif"
+    ],
+    [
+      "Fluttering Shiny Bug",
+      101,
+      "According to all known laws of aviation, there is no way a bug should be able to fly... in space.",
+      "damselfly_stamp.gif"
+    ],
+    [
+      "Armoured Tonu Beetle",
+      101,
+      "This beetle has a HUGE horn!",
+      "rhino_stamp.gif"
+    ],
+    [
+      "Jewelled Weevil",
+      101,
+      "The secret ingredient to Weevil Coffee.",
+      "weevil_stamp.gif"
+    ],
+    [
+      "Uncommon Blue Collectable Scarab",
+      95,
+      "You won't see this scarab often so make sure you get it when you see it!",
+      "coi_scarab_3.gif"
+    ],
+    [
+      "Spotted Longhorn Beetle",
+      101,
+      "Are they antennas or horns?",
+      "longhorn_stamp.gif"
+    ],
+    [
+      "Pteriwing Butterfly",
+      101,
+      "It is as big as a Pteri wing!",
+      "birdwing_stamp.gif"
+    ],
+    [
+      "Greater Green Collectable Scarab",
+      93,
+      "This beautiful green scarab has a fascinating pattern on its back that is quite hypnotising.",
+      "coi_desertscarab_green.gif"
+    ],
+    [
+      "Dazzling Verdant Collectable Scarab",
+      98,
+      "This dazzling scarab is beautiful to look at. You are very lucky if you find one!",
+      "coi_verdant_scarab.gif"
+    ],
+    [
+      "Kreludor Moth",
+      101,
+      "Some say their bushy antennae are for receiving signals from Dr. Sloth.",
+      "lunamoth_stamp.gif"
+    ],
+    [
+      "Stick Bug",
+      101,
+      "Are we sure this is actually a bug and not a stick?",
+      "stickbug_stamp.gif"
+    ],
+    [
+      "Spotted Red Collectable Scarab",
+      96,
+      "The spots on this Scarab's back scare away its enemies!",
+      "coi_dotted_scarabs.gif"
+    ],
+    [
+      "Pinching Beetle",
+      101,
+      "That's what it does, it pinches.",
+      "stag_stamp.gif"
+    ],
+    [
+      "Trilo Bite Beetle",
+      101,
+      "This beetle is almost as old as Tyrannia!",
+      "platerodrilus_stamp.gif"
+    ],
+    [
+      "Magmara Moth",
+      101,
+      "This is a giant! Among bugs, at least.",
+      "atlasmoth_stamp.gif"
+    ],
+    [
+      "Large Black Collectable Scarab",
+      99,
+      "This exceptionally large scarab has a mood as dark as its exoskeleton.",
+      "coi_large_black_scarab.gif"
+    ]
+  ]
 }
