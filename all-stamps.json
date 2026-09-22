@@ -2994,4 +2994,310 @@
       "coi_large_black_scarab.gif"
     ]
   ]
+{
+  "17": [
+    [
+      "Green Clam Shell",
+      80,
+      "If you can prise it open, you may find a glistening pearl inside!",
+      "she_giantclam.gif"
+    ],
+    [
+      "Purple Scallop Shell",
+      81,
+      "These shells are quite common, in fact you can find lots of them just lying around the Maraquan sea bed.",
+      "she_scallop2.gif"
+    ],
+    [
+      "Glossy Blue Shell",
+      82,
+      "This shell is so shiny your Neopet can almost see their reflection in it.",
+      "she_scallop1.gif"
+    ],
+    [
+      "Green Smooth Shell",
+      84,
+      "This shell is so smooth it feels silky to the touch.",
+      "she_snail.gif"
+    ],
+    [
+      "Brown Spotted Shell",
+      84,
+      "Be careful opening this one. Who knows whats inside?",
+      "she_dwivitt.gif"
+    ],
+    [
+      "Tangerine Trumpet Shell",
+      85,
+      "This unusual coloured shell is quite rare you know.",
+      "she_trumpet.gif"
+    ],
+    [
+      "Spiky Shell",
+      85,
+      "Watch out, this shell tends to bite back!",
+      "she_shell_spiky.gif"
+    ],
+    [
+      "Crimson Spotted Shell",
+      86,
+      "So called for the deep crimson inside the shell and the silver spots on the outside.",
+      "she_conch1.gif"
+    ],
+    [
+      "Shiny Purple Cowry Shell",
+      87,
+      "This shell appears like it could unwrap itself if it wanted.",
+      "she_purple_tortoisecowry.gif"
+    ],
+    [
+      "Camouflage Scallop Shell",
+      87,
+      "This shell can be hard to find since it blends in with its surroundings.",
+      "she_shell_camo.gif"
+    ],
+    [
+      "Rainbow Coloured Shell",
+      88,
+      "This beautiful shell will add a splash of colour to your collection.",
+      "she_candycane.gif"
+    ],
+    [
+      "Faerie Wings Shell",
+      88,
+      "Amazing! How does a shell take this shape?",
+      "she_faeriewings.gif"
+    ],
+    [
+      "Spiky Orange Murex Shell",
+      88,
+      "Be careful when you touch this shell or you might regret it.",
+      "she_orange_murex.gif"
+    ],
+    [
+      "Deep Seashell",
+      88,
+      "These are only found in the deepest, darkest waters of Neopia.",
+      "she_glow_bright.gif"
+    ],
+    [
+      "Pink Curly Shell",
+      89,
+      "Extremely delicate to handle. There are very few whole Pink Curly Shells around.",
+      "she_chamber.gif"
+    ],
+    [
+      "Blue Spiral Seashell",
+      90,
+      "Quite a rare shell, mainly found around the Ruins of Maraqua.",
+      "she_spiral1.gif"
+    ],
+    [
+      "Sparkly Green Scallop Shell",
+      90,
+      "This scallop shell has so many colours that it is very unusual.",
+      "she_green_lionspaw.gif"
+    ],
+    [
+      "Dazzling Blue Mussel Shell",
+      91,
+      "This amazing shell sparkles in the light.",
+      "she_blue_mussel.gif"
+    ],
+    [
+      "Purple Spiral Shell",
+      92,
+      "Purples and pinks make this shell quite pleasant to look at.",
+      "she_pinkrope.gif"
+    ],
+    [
+      "Matching Pastel Shells",
+      93,
+      "Finding two shells with the same pattern is extremely rare.",
+      "she_clams.gif"
+    ],
+    [
+      "Blue and Gold Tube Shell",
+      93,
+      "This beautiful jewel like shell could almost be worn as jewellry.",
+      "she_shell_bluetube.gif"
+    ],
+    [
+      "Tiny Golden Shell",
+      94,
+      "This little shell is so small that it is very hard to find.",
+      "she_shell_tiny.gif"
+    ],
+    [
+      "Royal Orange Cowry Shell",
+      95,
+      "Loved by everyone this beautiful shell can be very difficult to find. It never washes up in the same place twice.",
+      "she_orangulous.gif"
+    ],
+    [
+      "Purple Twirly Shell",
+      95,
+      "What an interesting specimen!",
+      "she_purple_twirl.gif"
+    ],
+    [
+      "Golden Shell",
+      98,
+      "This rare shell is found in the deepest Maraquan waters.",
+      "she_goldback.gif"
+    ]
+  ],
+  "18": [
+    [
+      "Maractite Dagger Stamp",
+      80,
+      "Stolen by Garin from the Maraquan armoury, this really is a pretty piece.",
+      "sta_maracititedagger.gif"
+    ],
+    [
+      "Piraket Stamp",
+      82,
+      "This Petpet is a favourite of many a pirate. Captain Scarblade even has one :",
+      "sta_piraket.gif"
+    ],
+    [
+      "Seaweed Necklace Stamp",
+      83,
+      "This enchanted necklace was given to Garin by Isca and it allowed him to breathe underwater.",
+      "sta_seaweednecklace.gif"
+    ],
+    [
+      "Petty Crewmate Stamp",
+      84,
+      "He left his peaceful home for a life of adventure and swashbuckling aboard Scarblades ship.",
+      "sta_wave1pirate.gif"
+    ],
+    [
+      "Pirate Attack Stamp",
+      85,
+      "When Captain Scarblade called for reinforcements, pirates of all shapes and sizes poured from the deck.",
+      "sta_mar_4pirate.gif"
+    ],
+    [
+      "Maraquan Defenders Stamp",
+      85,
+      "They had sworn to protect Maraquan no matter what the costs, and that is what they intended to do.",
+      "sta_mar_3maraquan.gif"
+    ],
+    [
+      "Maraquan Blade Specialist Stamp",
+      86,
+      "Pirates might get angry if you sent them a Neomail with this stamp on it.",
+      "stamp_maraquawave_2.gif"
+    ],
+    [
+      "Maraquan Charger Stamp",
+      87,
+      "This Maraquan Charger will now be forever remembered for his bravery on the field of battle.",
+      "stamp_maraquawave_3.gif"
+    ],
+    [
+      "The Black Pawkeet Stamp",
+      87,
+      "Garins beloved ship that proudly sails the seas once again.",
+      "sta_mar_pawkeet.gif"
+    ],
+    [
+      "Goregas Stamp",
+      87,
+      "Once a little Gulper, Goregas just kept on growing.",
+      "sta_mar_goregas.gif"
+    ],
+    [
+      "Chasm Beast Stamp",
+      88,
+      "He may look small on this tiny stamp, but he is much larger in real life.",
+      "stamp_chasmbeast.gif"
+    ],
+    [
+      "New Maraqua Stamp",
+      88,
+      "A beautiful monument to the people of Maraquas resiliance.",
+      "sta_mar_newmaraqua.gif"
+    ],
+    [
+      "Scurvy Island Stamp",
+      88,
+      "Home to all kinds of dastardly pirate scum.",
+      "sta_mar_scurvyisland.gif"
+    ],
+    [
+      "The Drenched Stamp",
+      89,
+      "No one is quite sure why Maraqua would memorialize these three on a stamp.",
+      "stamp_drenched.gif"
+    ],
+    [
+      "Maraquan Troops Stamp",
+      89,
+      "When the pirates attacked, every Maraquan that could bear arms defended their city.",
+      "sta_mar_maraquans2.gif"
+    ],
+    [
+      "Pirate Troops Stamp",
+      89,
+      "Three of the most vicious and daring pirates under Captain Scarblades command.",
+      "sta_mar_pirates2.gif"
+    ],
+    [
+      "Garin To The Rescue Stamp",
+      90,
+      "The tide really turned for the Maraquans when Garin and his crew arrived.",
+      "sta_mar_wave4.gif"
+    ],
+    [
+      "Caylis Stamp",
+      90,
+      "Haunted by dark visions, Caylis has learned to master her special powers.",
+      "sta_mar_caylis.gif"
+    ],
+    [
+      "Swordsmaster Talek Stamp",
+      91,
+      "Loyal, trustworthy and ready to give his life for Maraqua. Talek is a true hero.",
+      "sta_mar_talek.gif"
+    ],
+    [
+      "The Revenge Stamp",
+      91,
+      "As dark and formidable as its captains heart.",
+      "sta_mar_revenge.gif"
+    ],
+    [
+      "Jacques Stamp",
+      97,
+      "Daring, dashing and best friend to Garin.",
+      "sta_mar_jacques.gif"
+    ],
+    [
+      "Isca Stamp",
+      98,
+      "Beautiful Isca is blessed with the power to forsee the future and prevent terrible events from occuring.",
+      "sta_mar_isca.gif"
+    ],
+    [
+      "Garin Stamp",
+      98,
+      "The captain of the Black Pawkeet is torn between his promise to Isca and his score to settle with Captain Scarblade and his henchmen Benny.",
+      "sta_mar_garin.gif"
+    ],
+    [
+      "Captain Scarblade Stamp",
+      99,
+      "Notorious captain of the wicked ship Revenge, just the name Captain Scarblade strikes fear into the heart of every sea-faring Neopian",
+      "sta_mar_scarblade.gif"
+    ],
+    [
+      "King Kelpbeard Stamp",
+      99,
+      "Proud ruler of Maraqua, Kelpbeard strives for peace and happiness in his city. When the need arises though, he is an excellent warrior.",
+      "sta_mar_kelpbeard.gif"
+    ]
+  ]
+}
 }
